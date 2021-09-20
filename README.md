@@ -1,5 +1,5 @@
 # FaceRecognition
-Run the 'fr.py' file on console
+Run the 'fr.py' file on the console
 ## Required libraries:
 OpenCV,
 NumPy,
